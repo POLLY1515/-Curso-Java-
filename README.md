@@ -16,3 +16,8 @@ decimais.
 
 3- Fazer um programa para ler o código de uma peça 1, o número de peças 1, o valor unitário de cada peça 1, o 
 código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
+
+4- Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma 
+casa decimal, bem como o valor do metro quadrado do terreno com duas casas decimais. Em seguida, 
+o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com 
+duas casas decimais.

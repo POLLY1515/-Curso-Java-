@@ -22,7 +22,8 @@ public class Ex4 {
 		System.out.printf("Land area: %.2f\n" ,  area);
 		System.out.printf("land price: %.2f\n" , price);
 		//Para controlar a impressão de casas decimais,deve-se usar printf
-		// após a frase colocar %.quantidade de casas decimais + f + \ + n para
+		//ao invés de println.Após a frase de impressão colocar % +
+		//  quantidade de casas decimais + f + \ + n para
 		//pular linha,e no lugar do + antes da variavel,usar (,) virgula.
 
 		

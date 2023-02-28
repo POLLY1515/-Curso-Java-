@@ -23,3 +23,11 @@ código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 
 casa decimal, bem como o valor do metro quadrado do terreno com duas casas decimais. Em seguida, 
 o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com 
 duas casas decimais.
+
+
+             ** Estrutura condicional **
+             
+ 1            - Fazer um programa para ler as duas notas que um aluno obteve no primeiro e segundo semestres de 
+uma disciplina anual. Em seguida, mostrar a nota final que o aluno obteve (com uma casa decimal) no 
+ano juntamente com um texto explicativo. Caso a nota final do aluno seja inferior a 60.00, mostrar a 
+mensagem "REPROVADO".

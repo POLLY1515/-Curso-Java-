@@ -24,6 +24,14 @@ casa decimal, bem como o valor do metro quadrado do terreno com duas casas decim
 o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com 
 duas casas decimais.
 
+5- Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia.
+O programa deve ler o preço unitário do produto, a quantidade de unidades compradas deste produto,
+e o valor em dinheiro dado pelo cliente (suponha que haja dinheiro suficiente). Seu programa deve
+mostrar o valor do troco a ser devolvido ao cliente. 
+
+6- Fazer um programa para ler as medidas da base e altura de um retângulo. Em seguida, mostrar o valor
+da área, perímetro desse retangulo,com quatro casas decimais.
+
 
 
 
